@@ -5,6 +5,7 @@
     <classes>
       <class name="com.parent.testWorker.TestWorker"/>
       <class name="com.parent.testMember.TestMember"/>
+      <class name="com.parent.testBooks.TestBooks"/>
     </classes>
   </test> <!-- Command line test -->
 </suite> <!-- Failed suite [Command line suite] -->

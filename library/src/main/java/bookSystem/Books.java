@@ -9,7 +9,7 @@ public class Books {
     private int pages;
     private String publisher;
     private String  iSBN;
-    //illustrator
+
 
     private Books()
     {
